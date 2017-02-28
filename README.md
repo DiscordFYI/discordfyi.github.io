@@ -1,7 +1,7 @@
 # Discord.FYI #
 ### The beta/alpha run version for Discord Guide #
 
-If you are curious about the guides, check out our [server](https://discord.gg/zXsAHTd) and [site](https://discordguide.us) .
+If you are curious about the guides, check out our [server](https://discord.gg/guide) and [site](https://discordguide.us) .
 
 If you are looking for a pastrami bagel... you're out of luck, but we do have guides.
 
@@ -25,4 +25,4 @@ We want to be a hub of discord activity that everyone enjoys, and where people c
 **We want to be an all around nice place to be.**
 
 **Discord Partnered Project!**
-![](https://cdn.discordapp.com/attachments/268982781739139082/286197630906925058/Asset_1_big.png)
+![](https://cdn.discordapp.com/attachments/268982781739139082/286197813564538890/Asset_1.png)
